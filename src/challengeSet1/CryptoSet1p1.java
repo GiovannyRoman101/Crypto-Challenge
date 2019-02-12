@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Base64;
 
 
-public class CrytoSet1p1 {
+public class CryptoSet1p1 {
 	
 	//convert hex to base64
 	public static void main(String [] args) {
